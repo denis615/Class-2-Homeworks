@@ -1,0 +1,80 @@
+body {
+    background: url("https://st3.depositphotos.com/27539598/34433/i/1600/depositphotos_344334324-stock-photo-multiexposure-background-of-china-coronavirus.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+   }
+   
+
+   #about{
+    cursor:pointer;
+   }
+   #header1{
+       color:#00004d;
+       text-align: center;
+   }
+   #header6{
+       color:#ff1a1a;
+
+
+       text-align: center;
+       font-weight: bolder;
+       padding-top: 30%;
+       font-size: 1.2em;
+   }
+   #paragraphabout{
+    color:#00004d;
+    text-align: center;
+    font-size: 1.5em;
+       
+   }
+   
+   #advice1{
+       color: #00004d
+       ;
+       font-size: 1.3em;
+      
+       font-weight: bold;
+   }
+   #advice2{
+    color: #00004d
+    ;
+    font-size: 1.3em;
+    
+    font-weight: bold;
+}
+#advice3{
+    color: #00004d
+    ;
+    font-size: 1.3em;
+   
+    font-weight: bold;
+}
+
+#advice4{
+    color: #00004d
+    ;
+    font-size: 1.3em;
+    
+    font-weight: bold;
+}
+#advice5{
+    color: #00004d
+    ;
+    font-size: 1.3em;
+
+    font-weight: bold;
+}
+#advice6{
+    color: #00004d
+    ;
+    font-size: 1.3em;
+ 
+    font-weight: bold;
+}
+#adviceparagraphs{
+    padding-top: 10%;
+    text-align: center;
+}
